@@ -7,6 +7,6 @@ Each question is tagged with a difficulty level and the company where it was ask
 ----------------------------------------
 Arrays:
 
--[Any two numbers from the list add up to k](Problem1.java)
+-[Any two numbers from the list add up to k](ProblemADay/src/Problem1.java)
 
--[Product of all except self](Problem2.java)
+-[Product of all except self](ProblemADay/src/Problem2.java)
